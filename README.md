@@ -3,9 +3,9 @@
 
 torrentbot is a flexible torrent search module that currently searches
 
-* ![kat.cr](http://kat.cr)
-* ![demonoid.pw](http://demonoid.pw)
-* ![thepiratebay.org](https://thepiratebay.org)
+* [kat.cr](http://kat.cr)
+* [demonoid.pw](http://demonoid.pw)
+* [thepiratebay.org](https://thepiratebay.org)
 
 The CLI application formats the top results into a list, and attempts to ensure that the same torrent does not appear twice in the list.
 
